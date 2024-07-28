@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Michael, a passionate data scientist with a strong background in Mathematics and a strong interest in exploring the world of data. I hold a Master of Science degree in Mathematics with a focus on Probability Theory and have published research in this field. I also completed the intensive Data Science Bootcamp at Le Wagon, where I honed my practical data manipulation and machine learning skills.
+Hello there! I'm Michael, a passionate data scientist and web developer with a strong background in Mathematics and a strong interest in exploring the world of data. I hold a Master of Science degree in Mathematics with a focus on Probability Theory and have published research in this field. I also completed the intensive Data Science Bootcamp at Le Wagon, where I honed my practical data manipulation and machine learning skills. Currently I'm working on web development projects, developing my JavaScipt, GO, html, and React skills.
 
 ## 🚀 Skills and Expertise
 
@@ -10,17 +10,21 @@ Hello there! I'm Michael, a passionate data scientist with a strong background i
 - Data Analysis 📊
 - Statistics and Probability 📈
 - Data Visualization 📈
-- Data Wrangling 🐍
+- Data Wrangling
 - Mathematics 🧮
 - Machine Learning 🤖
 - Deep Learning 🤖
 - Git and Version Control 🌳
 - MLOps
+- JavaScript Programming
+- GO Programming
+- Web Development
 
 ## 💼 Work Experience
 
 - **Research Associate** | Universities of Paderborn and Hildesheim | 2015 - 2018
 - **Le Wagon Data Science Bootcamp** | Online | 02/2023 - 07/2023
+- **Teacher** | Vechelde | since 2019
 
 ## 🌱 Projects
 
