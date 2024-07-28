@@ -31,6 +31,8 @@ Hello there! I'm Michael, a passionate data scientist and web developer with a s
 Here is my most notable data science project:
 
 - [AI-written Text Identifier](https://github.com/michafdlr/AI_written_text_identifier) - Me and my collaborators created a DL model to detect AI generated text.
+- [Galton Board](https://github.com/michafdlr/galtonBoard) - I developed a simulation of the Galton Board.
+- 
 
 
 ## 🔗 Let's Connect
