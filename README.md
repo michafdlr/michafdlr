@@ -30,9 +30,9 @@ Hello there! I'm Michael, a passionate data scientist and web developer with a s
 
 Here is my most notable data science project:
 
+- [Mathetutor](https://github.com/michafdlr/mathe-lern-app) - I developed a web application where one can create mathematics learning courses with AI
 - [AI-written Text Identifier](https://github.com/michafdlr/AI_written_text_identifier) - Me and my collaborators created a DL model to detect AI generated text.
 - [Galton Board](https://github.com/michafdlr/galtonBoard) - I developed a simulation of the Galton Board.
-- 
 
 
 ## 🔗 Let's Connect
